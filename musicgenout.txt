@@ -1,0 +1,150 @@
+<start>
+X:42
+T:Mist Coverc =e
+D:Potrea ges
+D3 | MicGera- en"Ane MarecowB anco
+P:aataide Maz ondole, The
+R:Franatsern Aince
+R:I- amarra gur onemce
+C:anst poman's Gvance
+R:Da le orey, Dason 
+CuB ltando nBcalong
+W:Tra
+W:Nug-n?
+C:The,B, The
+R:herntipoks dou komancres
+R:cerqhe Schtonpite Malliyme
+R:Barif orgeu eurkie & Gind edncernc BeAls oy M\'" Marunks' Joune que enmi? paplay Burbyet :Siy'a heure Fusi\nll'C.
+Z:ip:he
+T:NeuckZ:
+U:h2anr
+e2G2 | fd/2d/2B/2|G
+|: <and>
+<startidero OoGr Micher eth Muckion-
+T:Mostine Gendy
+Z:id:hn-mizAlen
+S:Lore
+Z:il:hn-ph-08
+M:Ca2ne elseabunpte mers in n?minchaion pou Coonccr
+Z:TrAnscritere Haella
+T:Tregve
+T:Micklan Michle
+R:Jeanee ot Caolrag Sto Maror
+Z:A AB|EB !d/B/A G2G
+|2 "Bre>=e>c B>d|BG/G/ |
+P:Bd.e.
+Q:1/4"C.A2FE D2E|GA, BA|B2 AB FG|Ac/E/ fe|de BG|BA/B/ BB B2Bc | ~B2GB B2CB | P74
+D:Namaile
+Z:id:h louvee
+d:Pauk ane\
+N:peud Mobrangerspir
+M:A/ouscoe counne Couerre tabrante eunsom
+R:hornpipe
+C:,2ce Hiehen 
+W:Sioasmy Carney
+I:GoAka
+H:Be latCrasc eombolke
+R:Stigurkan Bine Chorret, #14
+Z:Transoril Birshn-16
+M:C|
+EGEFEG2 cABB|A3A G|dAd|cdB c2B||
+|:gafe ed|ce eg|f2ef gfag|:d~a2 defd BBdc|BABd BcAd|(^cGB | dcd e deA | ~e3 edd|ea g>d|A>c Bc|BABG G2:|
+|:=cc Bb/e//e/|ce|gf e2|e2 B2:|
+|:AB|GBAAB|d2c2 d2^B||
+e2f2 fdfdff
+efdd A2FA|(AGEAF dfee|defedcB|~d3ddB|eddc d2:|2 A>d c>c|d2 ded | d2d2 efec ||
+<end>
+<start>
+X:97
+T:Raiel Ma(ce,u tain ernail eerol, BABre, lle tit Grannes
+R:Noukl I & Posdmapre
+N:an alsourinne
+O:France
+M:C|
+K:Adon chiol! roub buri lo tio s alasat?
+Z:Transc it eanoob
+R:paira,G,B,A, 11938D, D, G,FFE, G,3 C, :hl
+e:ha-htroujie
+Z:id:hn-polka-5-
+M:6/8
+K:D
+(GABd GBA | (gefe d2cA | A3FGA B2AG | f2g2efg | gde Bde||
+cdB A2c|dBe Afd|Bad faf|dea abe|~a3 agb|ed2 g2f|d2f edc||cedd cdfi|
+efca | dcdd ^cAB | A2A2 c2B2 | c4c2cedB | A6/2B/2) G (3Gc^d | g2f d2 | A2AB cGAF|1 G2AF | "G"A2A2 E3"C"dBB|A4B2 |1 46202/2B/2 z2f2d | e2f2c2!|: E6 | A2G2A2AB|gedc|BABA|c2e2|cABG|AGB/B/B/E/D/|BB cBd/f/ge|e2dd d4:|
+|:ec|d>Bd>d d2|A2G2 |6
+d<edd2d|d(gegd|efag dcBd|cBAc A2A2|cad eeg|=eeg a2e|fab f2f|(3ced|
+d2 g2:| | veecy Horso: lla eks
+O:Daron oftarn efareit Poor"Maz C
+Z:Transcrir eth.)
+D:F/2ec/2d/2 FF/B/ Bf|f/2e/|g/ B/2|1 2 B/B/A/B/ d2 | d2fdB|ABc Bcd|cBd edd|faf ede|ffg|edcfB|dcddcBA|Adegegfe e2deecd|ffdB (GBA)Gdd|~g3d gfafd|Bd3e dedf|
+~f3 edc|BAA |cdeedf|gedd FGAF|AFA |efg|gfg ABc|ece A2h|edf efa||
+<end>
+<start>
+X: 1
+T:Ketronang
+M:H|
+K:G
+GB/d/ |
+|: gfe agg a2g|fea fgd|~a2d cdce|1ede dede|fced FA|cdB | GAFE |1 GAG d2F:|
+c2d d2e | e8dge dec|dBG G2A|~B3 g2e:|a|e2ge fgge|dBde dBA(GBBA>a c
+ABD~G2|d|cged dBcB|G2A2 A4|D2B2z23|g2e2d4|d4B2B2G2||
+|:B2GD4B2|G2A2|G6|2>
+c>0|2 =Bd/c/ GB/A/|BAGA |F2B2 ||
+T:Bury Dacolsoog
+H:DELLON - 2006-00- (3e)z ((32z)|]
+<end>
+<start>
+X:34
+T:Ken eounches
+R:V-laa
+K: bob
+eave | e2fA d2 Bfe|ffe ded|efd BdB|ABe/e
+d|Addc B2d.da | dfge | d2B Bdc | ffe g3f | g2fe d2AB|d3AAB |1 BGF B2D||
+P:varca?rone Seryoo, Ghe
+R:mazlled Brabou(faranalko
+Z:id:hn-hornpipes A2 Seide n? pareglle ckayda leu
+R:Avareet an Bratl Mour
+C.C.
+Z:id:hn-0
+Z:Trats: bad ed e3g2e e2af deagaf' gabe|dge dBc|:12 GAG E2F|D2Fa egge|dBcA B|AAB | F4|d2B c|BAB/ c/d/e/e/ fg|gfga d2:|
+A3d|FAGFAG|dg~f2 e2dg|ede |eed|edd/dB (1/2F/2d/2|1 c2 AF|dc/e//B/|Bd AB|BE DF:G2|B3d2c2|BA~G2 A2B2|B,2G2DAG||
+<end>
+<start>
+X:11
+T:Franeenke
+H:Elsu nolka
+S:Tored.er
+N:Pl? ela ? dervud eave
+Z:Ta4)scrr de tumbse
+H:Fraingl ffath Cholenall dearan 1
+d:Mickandse Pora #2
+P:Po, The
+R:Farne (39
+(1"B2G.G|"G"F2GF2|"C"C"g "c3"c2 |
+(ecd^cd) | fg[g (ef df | d2f2 e4 a>ff||
+|:b/d/d/d/|ee|c/B/F/B/ BB|:E/ A/d/d/ g/e/c/B/)G2|d
+V:4
+L:1/8
+Q:1/4=150
+K:Db] (3GBA |
+g2af baag afeg| fag edf | B2dc d2B|BcA BBA|1 F4ED|~G3B GABB|decdBc|eAFd dcdd|2cdB ~g3|bde fd2||
+<end>
+<start>
+X:13
+T:Hay Johk 'oan "H7"en- ee mouverche 1/2 Pedoyseon
+T:Plarlto,2 
+D2Ais oriel
+G:G
+e:Pred ety:jed (3e2c)
+d2de d2Bc|d ~e3 dBc|e2AA d2:|
+|:B/B/ | G/B/B/G/AB | AGBE | B2AG BdBB|GBdB B4:|
+<end>
+<start>
+X#86
+Z:id:heverrais] aablandans O'Earai gou
+T:maevue Reajin
+C:Transcraie
+D:MacLLON - alaote
+Z:id:hn-jig-4|
+[K:B] G[GA] (3(cBA | g=e d g2a e2d | B3A :1d3 :|e dede 
+
